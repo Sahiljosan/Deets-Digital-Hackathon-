@@ -1,4 +1,5 @@
 # Hackathon Deets Digital 
+[Python code](https://github.com/Sahiljosan/Deets-Digital-Hackathon-/blob/main/Hackaton%20train%20data%20logistic%20regression.py) [Jupyter Notebook](https://github.com/Sahiljosan/Deets-Digital-Hackathon-/blob/main/Deets_Digital_sahil_josan.ipynb) <br><br>
 ![](https://media.licdn.com/dms/image/C4D22AQGmAsMiCledEA/feedshare-shrink_2048_1536/0/1670127736318?e=1677110400&v=beta&t=MsN8dZQNIhnJYXW24A9vfyGv9F48InYa6NAY1Wt44YE)
 
 ## <font color=	#68228B>Problem Statement <font>
