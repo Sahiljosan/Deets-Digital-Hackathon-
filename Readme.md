@@ -1,5 +1,5 @@
 # Hackathon Deets Digital 
-![](https://i.imgur.com/QLKrhs7.png)
+![](https://media.licdn.com/dms/image/C4D22AQGmAsMiCledEA/feedshare-shrink_2048_1536/0/1670127736318?e=1677110400&v=beta&t=MsN8dZQNIhnJYXW24A9vfyGv9F48InYa6NAY1Wt44YE)
 
 ## <font color=	#68228B>Problem Statement <font>
 - Predit Future defaulter by analysing the attributes
